@@ -56,20 +56,20 @@ author_education_details:
                 college_url: null
                 college_degree: Mechanical Engineering
                 description: Bachelor's degree - 2021.2
-                visibility: true
+                visibility: false
 
-# Projects
-# author_project_details:
-#               - project_thumbnail: gamershub.png
-#                 project_title: Gamers Hub
-#                 project_description: A Platform built for Gamers and Game Devs
-#                 project_url: https://gamershub.in
-#                 visibility: true
-#               - project_thumbnail: hack4r.PNG
-#                 project_title: Hack4r
-#                 project_description: A Platform built for Hackers and Penetration Testers
-#                 project_url: https://hack4r.com
-#                 visibility: true
+Projects
+author_project_details:
+              - project_thumbnail: null
+                project_title: null
+                project_description: null
+                project_url: null
+                visibility: false
+              - project_thumbnail: null
+                project_title: null
+                project_description: null
+                project_url: null
+                visibility: false
 
 # social links
 twitter_username: null
