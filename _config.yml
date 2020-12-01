@@ -58,7 +58,7 @@ author_education_details:
                 description: Bachelor's degree - 2021.2
                 visibility: true
 
-Projects
+# Projects
 author_project_details:
               - project_thumbnail: null
                 project_title: null
