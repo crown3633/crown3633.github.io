@@ -1,10 +1,10 @@
-title: devlopr
+title: Hun's
 subtitle: A Portfolio Jekyll Theme Built for Developers
 description: >- # this means to ignore newlines until "baseurl:"
   devlopr-jekyll is a beautiful Jekyll Theme Built For Developers, which is optimized for speed and readability.
 
-url: "" # the base hostname & protocol for your site, e.g. https://example.github.io
-baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://crown3633.github.io" # the base hostname & protocol for your site, e.g. https://example.github.io
+baseurl: "/crown3633" # the subpath of your site, e.g. /blog
 
 urls:
     - text: Home
@@ -27,10 +27,10 @@ urls:
 # Edit Author details (For multi authors check _data/authors.yml)
 
 author_logo: profile.png
-author: John Doe
+author: Tae Hun
 author_bio: Hi, my name is John Doe. I built this site using devlopr-jekyll :D
-author_email: "mail@sujaykundu.com"
-author_location: India
+author_email: "crown3633@gmail.com"
+author_location: Seoul,Korea
 author_website_url: "https://sujaykundu.com"
 typewrite-text: devlopr is a jekyll theme built for developers. You can edit this in _config.yml file
 
@@ -72,16 +72,16 @@ author_project_details:
                 visibility: true
 
 # social links
-twitter_username: johndoe
-github_username:  sujaykundu777
-facebook_username: johndoe
-linkedin_username: johndoe
-behance_username: johndoe
-instagram_username: johndoe
-medium_username: johndoe
-telegram_username: johndoe
-dribbble_username: johndoe
-flickr_username: johndoe
+twitter_username: null
+github_username:  crown3633
+facebook_username: null
+linkedin_username: null
+behance_username: null
+instagram_username: tae_____hun
+medium_username: null
+telegram_username: null
+dribbble_username: null
+flickr_username: null
 
 #for comments ( we got Disqus and Hyvor Commenting, uncomment the one you want to use )
 
