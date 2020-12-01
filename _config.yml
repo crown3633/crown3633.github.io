@@ -146,7 +146,7 @@ defaults:
       type: authors
     values:
       layout: author
-      permalink: /blog/authors/:slug
+      permalink: /programming/authors/:slug
 
 # Build settings
 plugins:
