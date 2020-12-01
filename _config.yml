@@ -35,23 +35,23 @@ author_website_url: null
 typewrite-text: AIXDL_project
 
 # Experiences
-author_work_experiences:
-            - company_name: null
-              company_logo: null
-              company_url: null
-              designation: null
-              description: null
-              visibility: true
-            - company_name: null
-              company_logo: null
-              company_url: null
-              designation: null
-              description: null
-              visibility: true
+# author_work_experiences:
+#             - company_name: null
+#               company_logo: null
+#               company_url: null
+#               designation: null
+#               description: null
+#               visibility: true
+#             - company_name: null
+#               company_logo: null
+#               company_url: null
+#               designation: null
+#               description: null
+#               visibility: true
 
 # Education
 author_education_details:
-              - college_logo: null
+              - college_logo: MIT.png
                 college_name: HYU
                 college_url: null
                 college_degree: Mechanical Engineering
