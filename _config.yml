@@ -41,13 +41,13 @@ author_work_experiences:
               company_url: null
               designation: null
               description: null
-              visibility: true
+              visibility: false
             - company_name: null
               company_logo: null
               company_url: null
               designation: null
               description: null
-              visibility: true
+              visibility: false
 
 # Education
 author_education_details:
