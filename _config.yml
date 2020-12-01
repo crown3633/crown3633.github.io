@@ -21,8 +21,8 @@ urls:
       url : /contact
     - text: Styleguide
       url: /styleguide
-    - text: Get Started
-      url: /get-started
+    - text: null
+      url: null
 
 # Edit Author details (For multi authors check _data/authors.yml)
 
