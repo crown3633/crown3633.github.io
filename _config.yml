@@ -51,12 +51,12 @@ author_work_experiences:
 
 # Education
 author_education_details:
-              - college_logo: hyu.jpg
+              - college_logo: h.jpg
                 college_name: HYU
                 college_url: null
                 college_degree: Mechanical Engineering
                 description: Bachelor's degree - 2021.2
-                visibility: false
+                visibility: true
 
 Projects
 author_project_details:
