@@ -11,8 +11,8 @@ urls:
       url: /
     - text: About
       url: /about
-    - text: Blog
-      url: /blog
+    - text: Programming
+      url: /programming
     - text: null
       url: null
     - text: null
