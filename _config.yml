@@ -11,8 +11,8 @@ urls:
       url: /
     - text: About
       url: /about
-    - text: Programming
-      url: /programming
+    - text: Blog
+      url: /blog
     - text: null
       url: null
     - text: null
@@ -110,7 +110,7 @@ show_author_project_details: false
 # pagination of posts
 paginate: 4
 per_page: 4
-paginate_path: "/programming/page/:num/"
+paginate_path: "/blog/page/:num/"
 
 # minify
 # compress_html:
@@ -146,7 +146,7 @@ defaults:
       type: authors
     values:
       layout: author
-      permalink: /programming/authors/:slug
+      permalink: /blog/authors/:slug
 
 # Build settings
 plugins:
