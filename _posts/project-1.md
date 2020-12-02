@@ -3,7 +3,7 @@ layout: post
 title:  "AIXDL 프로젝트 - 1"
 summary: "차량 공유 서비스의 차량 파손 여부를 CNN을 활용하여 판단"
 author: taehun
-date: new Date()
+date: '2020-12-02 16:53:00 +0900'
 category: Python
 thumbnail: /assets/img/posts/code.jpg
 keywords: AI+X:DeepLearning, Dataset, VGGNet, Pre-trained model, ImageNet
