@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Added Multi Author Support"
+title:  "Hi"
 summary: "Multi Author Support allows to create articles with different Authors"
 author: xplor4r
 date: '2020-10-25 1:35:23 +0530'
-category: etc
+category: Python
 thumbnail: /assets/img/posts/code.jpg
 keywords: devlopr jekyll, how to use devlopr, devlopr, how to use devlopr-jekyll, devlopr-jekyll tutorial,best jekyll themes, multi author
 usemathjax: true
