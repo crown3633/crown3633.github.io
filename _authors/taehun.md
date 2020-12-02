@@ -1,7 +1,7 @@
 ---
 name: Tae Hun
 username: taehun
-bio: "Hi I a hun, a Web Developer and Designer."
+bio: ":D"
 site: https://crown3633.github.io
 avatar: kth.png
 email: crown3633@gmail.com
