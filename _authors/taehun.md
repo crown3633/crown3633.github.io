@@ -1,4 +1,4 @@
-name: Tae Hun # Name of the Author
+name: TaeHun # Name of the Author
 username: taehun # Username of the Author
 bio: ":D" # Author Bio
 site: "https://crown3633.github.io"  # Author Website URL
