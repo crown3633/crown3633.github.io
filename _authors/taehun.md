@@ -1,0 +1,29 @@
+name: Tae Hun # Name of the Author
+username: taehun # Username of the Author
+bio: "" # Author Bio
+site: null  # Author Website URL
+avatar: kth.png  # Profile Image (img path will be /assets/img/authors/johndoe.png)
+email: crown3633@gmail.com  # Author Email address
+social:  # Author Social profile links
+    - title: "github"
+      url: "https://crown3633.github.io"
+    - title: null
+      url: null
+    - title: null
+      url: null
+    - title: null
+      url: null
+    - title: null
+      url: null
+    - title: null
+      url: null
+    - title: null
+      url: null
+    - title: null
+      url: null
+    - title: null
+      url: null
+    - title: null
+      url: null
+    - title: null
+      url: null
