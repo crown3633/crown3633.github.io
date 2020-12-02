@@ -2,7 +2,7 @@
 layout: post
 title:  "Hi"
 summary: "Multi Author Support allows to create articles with different Authors"
-author: xplor4r
+author: Tae Hun
 date: '2020-10-25 1:35:23 +0530'
 category: Python
 thumbnail: /assets/img/posts/code.jpg
