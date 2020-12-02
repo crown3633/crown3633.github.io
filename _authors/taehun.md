@@ -7,23 +7,3 @@ email: crown3633@gmail.com  # Author Email address
 social:  # Author Social profile links
     - title: "github"
       url: "https://crown3633.github.io"
-    - title: null
-      url: null
-    - title: null
-      url: null
-    - title: null
-      url: null
-    - title: null
-      url: null
-    - title: null
-      url: null
-    - title: null
-      url: null
-    - title: null
-      url: null
-    - title: null
-      url: null
-    - title: null
-      url: null
-    - title: null
-      url: null
