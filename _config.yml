@@ -13,16 +13,16 @@ urls:
       url: /about
     - text: Blog
       url: /blog
-    - text: null
-      url: null
-    - text: null
-      url : null
-    - text: null
-      url : null
-    - text: null
-      url: null
-    - text: null
-      url: null
+#     - text: null
+#       url: null
+#     - text: null
+#       url : null
+#     - text: null
+#       url : null
+#     - text: null
+#       url: null
+#     - text: null
+#       url: null
 
 # Edit Author details (For multi authors check _data/authors.yml)
 
