@@ -38,7 +38,7 @@ layout: default
                     {% if author %}
                      {% assign author_data = site.data.authors[author] %}
                      <img
-                      src="https://github.com/crown3633/crown3633.github.io/tree/master/assets/img/authors/kth1.png"
+                      src="{{site.url}}{{site.baseurl}}/assets/img/authors/{{author_data.avatar}}"
                       width="50px"
                       height="50px"
                    />
