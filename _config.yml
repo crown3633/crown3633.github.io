@@ -54,13 +54,13 @@ author_education_details:
               - college_logo: snu.png
                 college_name: Seoul National Univ.
                 college_url: null
-                college_degree: M.S. in Mechanical Engineering
+                college_degree: M.S. in Mechanical Engi.
                 description: 2021.03 ~
                 visibility: true
               - college_logo: hyu.png
                 college_name: Hanyang Univ.
                 college_url: null
-                college_degree: Mechanical Engineering
+                college_degree: Mechanical Engi.
                 description: 2014.03 ~ 2021.02
                 visibility: true
 
