@@ -44,7 +44,7 @@ html[data-theme="light"] {
     --button-background-color: #fff;
 }
 
-@media (prefers-color-scheme: dark) {
+@media (prefers-color-scheme: light) {
      /* Dark Mode */
     html,
     html[data-theme="dark"] {
@@ -71,11 +71,11 @@ html[data-theme="light"] {
     /* Light Mode */
     html[data-theme="light"] {
         --bold-color: rgb(0, 0, 0);
-        --box-background-color: rgb(249, 249, 250);
+        --box-background-color: rgb(255, 255, 255); //원래 249,249,250
         --highlight-color: hsl(0, 0%, 80%);
-        --light-border-color: rgb(230, 230, 230);
+        --light-border-color: rgb(255, 255, 255); // 원래 230, 230, 230
         --light-text-color: rgb(72, 72, 74);
-        --link-color: #ca6521;
+        --link-color: #2421ca; // 원래 #ca6521
         --nav-color: #ffffff;
         --nav-link-color: #111111;
         --search-color: #ababab;
@@ -163,7 +163,7 @@ blockquote {
 
  /* width */
  ::-webkit-scrollbar {
-    width: 10px;
+    width: 25px; //원래 10px
  }
 
   /* Track */
@@ -249,7 +249,7 @@ header {
     background-color: #fff !important; //원래 #000
     border: 1px solid #020305 !important;
     border-radius: .25rem;
-    max-width: 70%;
+    max-width: 70%; //원래 100%
     height: auto;
     margin: 15px;
 }
