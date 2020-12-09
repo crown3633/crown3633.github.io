@@ -152,8 +152,12 @@ pre {
 }
 
 blockquote {
-    margin: 1rem 1rem 1rem; //원래 2, 1, 1
-    padding: 3px;
+//     margin: 2rem 1rem 1rem; //원래 2, 1, 1
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-left: 20px;
+    padding-right: 20px;
+//     padding: 3px;
     background: #e3e3e3 !important; //원래 var(--main-background-color)
     border-left: 4px solid #a6daff;
     color: var(--bold-color) ; //원래 var(--bold-color)
