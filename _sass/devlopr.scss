@@ -163,6 +163,14 @@ blockquote {
     color: var(--bold-color) ; //원래 var(--bold-color)
 }
 
+blockquote1 {
+    content: "\201C";
+    font-size: 3em;
+    font-family: 'Georgia';
+    color: #bcbcbc;
+    float: left;
+    margin: -5px 10px 0px -10px
+}
 /* Scrollbar */
 
  /* width */
