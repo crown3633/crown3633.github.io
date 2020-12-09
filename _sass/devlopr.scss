@@ -8,7 +8,7 @@ $text-width: 650px;
 
 html[data-theme="dark"] {
     --bold-color: rgb(188, 188, 188);
-    --box-background-color: hsl(0, 0%, 60%); //원래 0,0,20
+    --box-background-color: hsl(0, 0%, 20%); //원래 0,0,20
     --highlight-color: hsl(0, 0%, 60%);
     --light-border-color: hsl(0, 0%, 30%);
     --light-text-color: rgb(199, 199, 204);
@@ -28,7 +28,7 @@ html,
 html[data-theme="light"] {
     --bold-color: rgb(0, 0, 0);
     --box-background-color: rgb(255, 255, 255); //원래 249, 249, 250
-    --highlight-color: hsl(0, 0%, 80%);
+    --highlight-color: hsl(0, 0%, 100%);
     --light-border-color: rgb(230, 230, 230);
     --light-text-color: rgb(72, 72, 74);
     --link-color: rgb(0, 112, 201);
