@@ -117,7 +117,7 @@ ol, ul {
 body {
     background-color: var(--main-background-color) !important;
     color: var(--main-text-color) !important;
-    font-family: 'Nanum Gothic', sans-serif !important; //'Quicksand', sans-serif
+    font-family: 'Nanum Gothic', sans-serif !important; // 원래 'Quicksand', sans-serif
     font-feature-settings: "kern"on;
     font-size: 1.4rem;
     font-variant-numeric: oldstyle-nums;
@@ -246,8 +246,8 @@ header {
 
 .img-thumbnail {
     padding: .25rem;
-    background-color: #0080ff !important; //원래 #000
-    border: 1px solid #020305 !important;
+    background-color: #000 !important; //원래 #000
+    border: 3px solid #020305 !important;
     border-radius: .25rem;
     max-width: 70%; //원래 100%
     height: auto;
