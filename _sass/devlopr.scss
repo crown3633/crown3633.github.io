@@ -148,7 +148,7 @@ body {
 pre {
     display: block;
     font-size: 87.5%;
-    color: #8ab9ff !important; //d4d4d4
+    color: #000000 !important; //d4d4d4
 }
 
 blockquote {
@@ -1214,7 +1214,7 @@ footer {
  }
 
  /* Syntax Hightlighter */
- .highlight pre { background-color: #212529; padding: 20px;}
+ .highlight pre { background-color: #a1d0ff; padding: 20px;} //원래 212529
 .highlight .hll { background-color: #272822; }
 .highlight .c { color: #75715e } /* Comment */
 .highlight .err { color: #960050; background-color: #1e0010 } /* Error */
