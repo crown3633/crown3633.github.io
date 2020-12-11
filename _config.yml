@@ -185,3 +185,6 @@ exclude:
   - vendor/ruby/
 
 destination: ./build
+
+toc: true
+toc_sticky: true
