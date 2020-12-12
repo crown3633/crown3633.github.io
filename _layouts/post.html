@@ -4,6 +4,7 @@ layout: default
 
 <div class="row" id="blog-post-container">
   <div class="col-lg-8 offset-md-2">
+    {% include toc.html html=content %}
     {%- include blog_post_article.html -%}
     {%- include blog_post_comments.html-%}
   </div>
@@ -40,6 +41,3 @@ layout: default
     </div>
   </div>
 </div>
-
-
-{% include toc.html html=content %}
