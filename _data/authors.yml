@@ -2,10 +2,12 @@
 taehun:
    name: Kim Tae Hun
    username: taehun
-   site: https://crown3633.github.com
+   site: https://crown3633.github.com<br>http://shrm.snu.ac.kr/index.php
    avatar: taehun.png
-   bio: "Tae Hun :)"
-   email: crown3633@gmail.com
+   bio: System Health and Risk Management Laboratory<br>
+        M.S in Mechanical Engineering<br>
+        Seoul National University, South Korea
+   email: crown3633@snu.ac.kr
    social:
       - title: "github"
         url: "https://github.com/crown3633"
