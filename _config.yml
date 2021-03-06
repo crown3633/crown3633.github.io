@@ -13,6 +13,8 @@ urls:
       url: /about
     - text: Blog
       url: /blog
+    - text: Python
+      url: /python
 #     - text: null
 #       url: null
 #     - text: null
