@@ -8,7 +8,7 @@ layout: default
       <a href="/">
         <img src="{{site.url}}{{site.baseurl}}/assets/img/{{ site.author_logo }}" class="profile-img" />
       </a>
-      <h1 class="profile-name">Kim Tae Hun</h1>
+      <h1 class="profile-name">Taehun Kim</h1>
       <p class="profile-bio">{{ site.subtitle }}</p>
       {% if site.github_username %} {%- include github_follow_button.html -%} {%
       endif %}
@@ -169,13 +169,13 @@ layout: default
       {% for detail in site.author_education_details %} {% if detail.visibility
       == true %}
       <div class="row">
-        <div class="col-md-2">
+<!--         <div class="col-md-2">
           <img
             src="{{site.url}}{{site.baseurl}}/assets/img/{{ detail.college_logo}}"
             class="company-logo"
           />
-        </div>
-        <div class="col-md-6">
+        </div> -->
+        <div class="col-md-8">
           <h4 class="experience-info">&nbsp;{{ detail.college_name}}</h4>
           <h6 class="experience-title">&nbsp;&nbsp;{{ detail.college_degree}}</h6>
           <p class="experience-desc">&nbsp;&nbsp;{{ detail.description}}</p>
