@@ -94,7 +94,7 @@ layout: default
     </div>
 
     <div class="card">
-      <h1>Skills</h1>
+      <h1>· Skills</h1>
 
       {%- include author_skills.html -%}
     </div>
@@ -115,7 +115,7 @@ layout: default
     </div>
     {% endif %} {% if site.show_author_project_details == true %}
     <div id="author_projects" class="card">
-      <h1 class="card-title">1. Projects</h1>
+      <h1 class="card-title">· Projects</h1>
       <br />
       {% for project in site.author_project_details %} {% if project.visibility
       == true %}
@@ -142,7 +142,7 @@ layout: default
     </div>
     {% endif %} {% if site.show_author_work_experiences == true %}
     <div class="card">
-      <h1 class="card-title">2. Work Experience</h1>
+      <h1 class="card-title">· Work Experience</h1>
       <br />
       {% for exp in site.author_work_experiences %} {% if exp.visibility == true
       %}
@@ -164,7 +164,7 @@ layout: default
     </div>
     {% endif %} {% if site.show_author_education_details == true %}
     <div class="card">
-      <h1 class="card-title">3. Education</h1>
+      <h1 class="card-title">· Education</h1>
       <br />
       {% for detail in site.author_education_details %} {% if detail.visibility
       == true %}
